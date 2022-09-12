@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51e23f33-8d99-496a-881d-fa3a9aadfb76" name="Default Changelist" comment="" />
+    <list default="true" id="51e23f33-8d99-496a-881d-fa3a9aadfb76" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +16,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2Ee9hJ9xDpLU8pe9U5yQa16BYPd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -80,25 +86,25 @@
       <screen x="0" y="38" width="1512" height="857" />
     </state>
     <state x="466" y="38" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.38.1512.857/1512.25.1600.875@0.38.1512.857" timestamp="1662995667360" />
-    <state width="1470" height="199" key="GridCell.Tab.0.bottom" timestamp="1662995681152">
+    <state width="1470" height="185" key="GridCell.Tab.0.bottom" timestamp="1663009095969">
       <screen x="0" y="38" width="1512" height="857" />
     </state>
-    <state width="1470" height="199" key="GridCell.Tab.0.bottom/0.38.1512.857/1512.25.1600.875@0.38.1512.857" timestamp="1662995681152" />
+    <state width="1470" height="185" key="GridCell.Tab.0.bottom/0.38.1512.857/1512.25.1600.875@0.38.1512.857" timestamp="1663009095969" />
     <state width="1470" height="93" key="GridCell.Tab.0.bottom/0.38.1512.857@0.38.1512.857" timestamp="1662991091362" />
-    <state width="1470" height="199" key="GridCell.Tab.0.center" timestamp="1662995681151">
+    <state width="1470" height="185" key="GridCell.Tab.0.center" timestamp="1663009095969">
       <screen x="0" y="38" width="1512" height="857" />
     </state>
-    <state width="1470" height="199" key="GridCell.Tab.0.center/0.38.1512.857/1512.25.1600.875@0.38.1512.857" timestamp="1662995681151" />
+    <state width="1470" height="185" key="GridCell.Tab.0.center/0.38.1512.857/1512.25.1600.875@0.38.1512.857" timestamp="1663009095969" />
     <state width="1470" height="93" key="GridCell.Tab.0.center/0.38.1512.857@0.38.1512.857" timestamp="1662991091362" />
-    <state width="1470" height="199" key="GridCell.Tab.0.left" timestamp="1662995681151">
+    <state width="1470" height="185" key="GridCell.Tab.0.left" timestamp="1663009095967">
       <screen x="0" y="38" width="1512" height="857" />
     </state>
-    <state width="1470" height="199" key="GridCell.Tab.0.left/0.38.1512.857/1512.25.1600.875@0.38.1512.857" timestamp="1662995681151" />
+    <state width="1470" height="185" key="GridCell.Tab.0.left/0.38.1512.857/1512.25.1600.875@0.38.1512.857" timestamp="1663009095967" />
     <state width="1470" height="93" key="GridCell.Tab.0.left/0.38.1512.857@0.38.1512.857" timestamp="1662991091361" />
-    <state width="1470" height="199" key="GridCell.Tab.0.right" timestamp="1662995681151">
+    <state width="1470" height="185" key="GridCell.Tab.0.right" timestamp="1663009095969">
       <screen x="0" y="38" width="1512" height="857" />
     </state>
-    <state width="1470" height="199" key="GridCell.Tab.0.right/0.38.1512.857/1512.25.1600.875@0.38.1512.857" timestamp="1662995681151" />
+    <state width="1470" height="185" key="GridCell.Tab.0.right/0.38.1512.857/1512.25.1600.875@0.38.1512.857" timestamp="1663009095969" />
     <state width="1470" height="93" key="GridCell.Tab.0.right/0.38.1512.857@0.38.1512.857" timestamp="1662991091362" />
     <state x="244" y="45" key="SettingsEditor" timestamp="1662946427039">
       <screen x="0" y="38" width="1512" height="857" />
